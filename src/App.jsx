@@ -205,7 +205,7 @@ export default function App() {
           <div>
             <h1 className="text-2xl font-bold text-slate-800 flex items-center gap-2">
               <BookOpen className="text-indigo-600" />
-              Marketing Tutorial Prep
+              PoM Test Revision
             </h1>
             <p className="text-slate-500 text-sm">Test 1 Sample Questions</p>
           </div>
